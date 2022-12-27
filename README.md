@@ -23,3 +23,8 @@ https://testnets.opensea.io/assets/goerli/0x4B69D23FC8ffB198895f20A75C8E0322B87E
 
 CHAROB token 0x772c569F9E3B43F768a69d2CaC6DaCAA3A5c7827
 https://goerli.etherscan.io/address/0x772c569F9E3B43F768a69d2CaC6DaCAA3A5c7827
+
+
+treasure by location game https://notes.yhg.io/treasure-hunt-a-location-based-nft-game-using-thirdweb
+
+https://charob.hashnode.dev/ edit on hh.new
