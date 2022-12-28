@@ -1,3 +1,8 @@
+# La DAO de gouvernance du Château des Robots
+
+https://cdr-dao.vercel.app/
+
+
 # buildspace x thirdweb - Build your own DAO with just Javascript
 
 ### **Welcome 👋**
@@ -51,3 +56,5 @@ Hooks react https://reactjs.org/docs/hooks-reference.html#usememo?utm_source=bui
 vendre des tokens sur uniswap
 https://www.loom.com/share/8c235f0c5d974c978e5dbd564bbca59d
 https://buildspace.so/p/build-dao-with-javascript/lessons/remove-admin-powers-handle-errors
+
+DAO online https://cdr-dao.vercel.app/
