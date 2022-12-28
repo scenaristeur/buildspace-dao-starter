@@ -10,6 +10,13 @@ To get started with this project, clone this repo and follow these commands:
 ### **Questions?**
 Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/projects/COb520aae3-7925-42f4-a5e7-eaf718933766) and link your Discord account so you can get access to helpful channels and your instructor!
 
+Contracts :
+NFT 0x4B69D23FC8ffB198895f20A75C8E0322B87E36CF https://thirdweb.com/goerli/0x4B69D23FC8ffB198895f20A75C8E0322B87E36CF
+TOKEN 0x772c569F9E3B43F768a69d2CaC6DaCAA3A5c7827 https://goerli.etherscan.io/address/0x772c569F9E3B43F768a69d2CaC6DaCAA3A5c7827
+VOTE 0x0EcdA91793be037df0deA9A3Ef73b1dDE3FB3A8C https://goerli.etherscan.io/address/0x0EcdA91793be037df0deA9A3Ef73b1dDE3FB3A8C
+
+
+
 edition_drop_address 0x4B69D23FC8ffB198895f20A75C8E0322B87E36CF
 
 les NFTS : https://thirdweb.com/goerli/0x4B69D23FC8ffB198895f20A75C8E0322B87E36CF
@@ -28,3 +35,9 @@ https://goerli.etherscan.io/address/0x772c569F9E3B43F768a69d2CaC6DaCAA3A5c7827
 treasure by location game https://notes.yhg.io/treasure-hunt-a-location-based-nft-game-using-thirdweb
 
 https://charob.hashnode.dev/ edit on hh.new
+
+issue avec QuickNode sur le step 7 airdrop-token
+- https://github.com/buildspace/buildspace-projects/issues/1526
+utiliser QUICKNODE_API_URL=https://eth-goerli.g.alchemy.com/v2/[your_api_key]
+
+Successfully deployed vote contract, address: 0x0EcdA91793be037df0deA9A3Ef73b1dDE3FB3A8C
