@@ -41,3 +41,13 @@ issue avec QuickNode sur le step 7 airdrop-token
 utiliser QUICKNODE_API_URL=https://eth-goerli.g.alchemy.com/v2/[your_api_key]
 
 Successfully deployed vote contract, address: 0x0EcdA91793be037df0deA9A3Ef73b1dDE3FB3A8C
+
+
+Qu'est-ce que la Gouvernance https://docs.openzeppelin.com/contracts/4.x/api/governance?utm_source=buildspace.so&utm_medium=buildspace_project
+
+Hooks react https://reactjs.org/docs/hooks-reference.html#usememo?utm_source=buildspace.so&utm_medium=buildspace_project
+
+
+vendre des tokens sur uniswap
+https://www.loom.com/share/8c235f0c5d974c978e5dbd564bbca59d
+https://buildspace.so/p/build-dao-with-javascript/lessons/remove-admin-powers-handle-errors
